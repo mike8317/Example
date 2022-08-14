@@ -1,0 +1,15 @@
+C:\Users\User\Exampl\Exal\obj\Debug\net6.0\Exal.csproj.AssemblyReference.cache
+C:\Users\User\Exampl\Exal\obj\Debug\net6.0\Exal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Exampl\Exal\obj\Debug\net6.0\Exal.AssemblyInfoInputs.cache
+C:\Users\User\Exampl\Exal\obj\Debug\net6.0\Exal.AssemblyInfo.cs
+C:\Users\User\Exampl\Exal\obj\Debug\net6.0\Exal.csproj.CoreCompileInputs.cache
+C:\Users\User\Exampl\Exal\bin\Debug\net6.0\Exal.exe
+C:\Users\User\Exampl\Exal\bin\Debug\net6.0\Exal.deps.json
+C:\Users\User\Exampl\Exal\bin\Debug\net6.0\Exal.runtimeconfig.json
+C:\Users\User\Exampl\Exal\bin\Debug\net6.0\Exal.dll
+C:\Users\User\Exampl\Exal\bin\Debug\net6.0\Exal.pdb
+C:\Users\User\Exampl\Exal\obj\Debug\net6.0\Exal.dll
+C:\Users\User\Exampl\Exal\obj\Debug\net6.0\refint\Exal.dll
+C:\Users\User\Exampl\Exal\obj\Debug\net6.0\Exal.pdb
+C:\Users\User\Exampl\Exal\obj\Debug\net6.0\Exal.genruntimeconfig.cache
+C:\Users\User\Exampl\Exal\obj\Debug\net6.0\ref\Exal.dll
